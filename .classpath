@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="T:/_Faecher/Informatik/ECLIPSE-LIBRARIES/collections-generic-4.01.jar"/>
+	<classpathentry kind="lib" path="T:/_Faecher/Informatik/ECLIPSE-LIBRARIES/colt-1.2.0.jar"/>
+	<classpathentry kind="lib" path="T:/_Faecher/Informatik/ECLIPSE-LIBRARIES/concurrent-1.3.4.jar"/>
+	<classpathentry kind="lib" path="T:/_Faecher/Informatik/ECLIPSE-LIBRARIES/j3d-core-1.3.1.jar"/>
+	<classpathentry kind="lib" path="T:/_Faecher/Informatik/ECLIPSE-LIBRARIES/java-json.jar"/>
+	<classpathentry kind="lib" path="T:/_Faecher/Informatik/ECLIPSE-LIBRARIES/jung-3d-2.0.1.jar"/>
+	<classpathentry kind="lib" path="T:/_Faecher/Informatik/ECLIPSE-LIBRARIES/jung-3d-demos-2.0.1.jar"/>
+	<classpathentry kind="lib" path="T:/_Faecher/Informatik/ECLIPSE-LIBRARIES/jung-algorithms-2.0.1.jar"/>
+	<classpathentry kind="lib" path="T:/_Faecher/Informatik/ECLIPSE-LIBRARIES/jung-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="T:/_Faecher/Informatik/ECLIPSE-LIBRARIES/jung-graph-impl-2.0.1.jar"/>
+	<classpathentry kind="lib" path="T:/_Faecher/Informatik/ECLIPSE-LIBRARIES/jung-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="T:/_Faecher/Informatik/ECLIPSE-LIBRARIES/jung-jai-2.0.1.jar"/>
+	<classpathentry kind="lib" path="T:/_Faecher/Informatik/ECLIPSE-LIBRARIES/jung-jai-samples-2.0.1.jar"/>
+	<classpathentry kind="lib" path="T:/_Faecher/Informatik/ECLIPSE-LIBRARIES/jung-samples-2.0.1.jar"/>
+	<classpathentry kind="lib" path="T:/_Faecher/Informatik/ECLIPSE-LIBRARIES/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="T:/_Faecher/Informatik/ECLIPSE-LIBRARIES/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="T:/_Faecher/Informatik/ECLIPSE-LIBRARIES/vecmath-1.3.1.jar"/>
+	<classpathentry kind="lib" path="T:/_Faecher/Informatik/ECLIPSE-LIBRARIES/wstx-asl-3.2.6.jar"/>
+	<classpathentry kind="lib" path="T:/_Faecher/Informatik/ECLIPSE-LIBRARIES/BUGFIXES/jung-visualization-2.0.1-FIX-NIKLAS-SEELIGER.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
